@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\cho\desktop\algorithm\pro\pro\main.cpp(7): warning C4101: 'xi' :참조되지 않은 지역 변수입니다.
+c:\users\cho\desktop\algorithm\pro\pro\main.cpp(6): warning C4101: 'N' :참조되지 않은 지역 변수입니다.
+c:\users\cho\desktop\algorithm\pro\pro\main.cpp(8): warning C4101: 'vi' :참조되지 않은 지역 변수입니다.
+c:\users\cho\desktop\algorithm\pro\pro\main.cpp(6): warning C4101: 'K' :참조되지 않은 지역 변수입니다.
+  PRO.vcxproj -> C:\Users\Cho\Desktop\Algorithm\PRO\Debug\PRO.exe
+  PRO.vcxproj -> C:\Users\Cho\Desktop\Algorithm\PRO\Debug\PRO.pdb (Partial PDB)
